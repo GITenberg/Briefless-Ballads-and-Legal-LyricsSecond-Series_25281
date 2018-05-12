@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31208'
     url: http://www.gutenberg.org/2009/agents/31208
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25281#Briefless-Ballads-and-Legal-LyricsSecond-Series
 gutenberg_bookshelf: British Law
 gutenberg_issued: '2008-05-02'
 gutenberg_type: Text
